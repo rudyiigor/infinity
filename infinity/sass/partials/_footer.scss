@@ -1,0 +1,31 @@
+footer{
+  height: 140px;
+  background-color: #252830;
+  line-height: 140px;
+}
+.footer_hold{
+  height: 140px;
+  float: left;
+}
+ .footer_hold h5{
+   display: inline-block;
+  width: 150px;
+  margin-left: 10px;
+  color: #fff;
+  font-weight: lighter;
+  line-height: 1.2;
+}
+.footer_hold h5 span{
+  color: #1bb596;
+}
+.sotial_net2{
+  display: block;
+  float: right;
+}
+.sotial_net2 a{
+  margin-right: 15px;
+  height: 100%;
+}
+.sotial_net2 a:nth-child(4){
+  margin-right: 30px;
+}

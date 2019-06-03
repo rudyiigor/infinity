@@ -1,0 +1,18 @@
+.our_contents {
+  width: 100%;
+  background-color: #fff; }
+  .our_contents .carousel {
+    margin-top: 100px; }
+  .our_contents .small {
+    text-transform: uppercase;
+    font-size: 10px;
+    color: #ddd; }
+  .our_contents .last_massege {
+    width: 360px;
+    float: right;
+    font-size: 16px;
+    color: #939598;
+    margin: 20px 0 0 24px;
+    line-height: 1.5; }
+  .our_contents .LOREM_MESSAGE {
+    margin-top: 100px; }

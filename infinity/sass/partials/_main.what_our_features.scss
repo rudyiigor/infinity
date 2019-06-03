@@ -1,0 +1,64 @@
+.What_Our_Features{
+  background-color: #f8f9fb;
+  ul{
+    text-align: center;
+    margin-top: 30px;
+    li{
+      color: #777;
+      background-color: #fff;
+      box-shadow: 0px 0px 35px -11px #000000;
+      display: inline-block;
+      text-align: center;
+      height: 54px;
+      margin-left: 2px;
+      font-size: 16px;
+      padding: 0 40px;
+      line-height: 54px;
+      cursor: pointer;
+      margin-top: 94px;
+    }
+     .green_color{
+      background-color: #1abc9c;
+      color: #fff;
+    }
+  }
+  .INTRODUCTION{
+    display: block;
+  }
+  .ABOUT{
+    display: none;
+  }
+  .FEATURES{
+    display: none;
+  }
+}
+.img-video{
+  margin-top: 114px;
+  display: inline-block;
+  img{
+    border: none;
+  }
+}
+.description_video{
+  display: table;
+  height: 314px;
+  width: 506px;
+  float: right;
+  margin-top: 114px;
+  span{
+    display: table-cell;
+    vertical-align: middle;
+    h3{
+      width: 70%;
+      font-size: 27px;
+      color: #4c4c4c;
+      margin-bottom: 28px;
+    }
+    p{
+      width: 91%;
+      font-size: 16px;
+      color: #939598;
+      line-height: 1.7;
+    }
+  }
+}

@@ -1,0 +1,44 @@
+header {
+  width: 100%;
+  display: inline-block;
+  position: relative;
+  -webkit-box-shadow: -1px 15px 49px 0px #aaa;
+  box-shadow: -1px 15px 49px 0px #aaa; }
+  header .navbar-light .navbar-nav .nav-link:hover {
+    color: #1abc9c; }
+  header .logo {
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+    float: left; }
+    header .logo a {
+      text-decoration: none; }
+      header .logo a img {
+        vertical-align: middle; }
+      header .logo a h1 {
+        font-size: 1px;
+        text-indent: -99999px; }
+  header nav {
+    height: 100%;
+    margin-left: 10px;
+    display: inline-block;
+    float: left; }
+    header nav ul {
+      height: 100%; }
+      header nav ul li {
+        margin: 0px 15px 0px 15px;
+        display: inline-block; }
+        header nav ul li a {
+          color: #bab0b0;
+          text-decoration: none;
+          text-transform: uppercase;
+          height: 100%; }
+  header .sotial_net {
+    height: 60px;
+    float: right;
+    line-height: 60px; }
+    header .sotial_net a {
+      text-decoration: none; }
+      header .sotial_net a img {
+        margin: 0 12px;
+        vertical-align: middle; }

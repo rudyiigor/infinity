@@ -1,0 +1,21 @@
+.what_we_do {
+  border-bottom: 1px solid #dddddd; }
+  .what_we_do .device {
+    display: inline-block;
+    text-align: center;
+    margin: 98px 20px 98px 0; }
+    .what_we_do .device img {
+      display: block;
+      margin: 0 auto; }
+    .what_we_do .device h3 {
+      margin-top: 44px;
+      font-size: 27px;
+      color: #4c4c4c; }
+    .what_we_do .device p {
+      width: 100%;
+      line-height: 1.5em;
+      font-size: 16px;
+      margin-top: 30px;
+      color: #939598; }
+  .what_we_do .device:last-child {
+    margin-right: 0px; }

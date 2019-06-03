@@ -1,0 +1,7 @@
+.banner {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-color: #797979;
+  overflow: hidden; }

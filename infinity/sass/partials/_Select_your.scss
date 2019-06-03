@@ -1,0 +1,208 @@
+.Select_your{
+  background-color: #f8f9fb;
+  height: 1200px;
+  overflow: hidden;
+}
+.basic{
+  overflow: hidden;
+  width: 360px;
+  height: 654px;
+  background-color: #fff;
+  display: inline-block;
+  box-shadow: 0px 0px 16px -1px #000000;
+  float: left;
+  margin: 60px 0 16px;
+  text-align: center;
+}
+.basic h3{
+  text-transform: uppercase;
+  font-size: 20px;
+  color: #4c4c4c;
+  font-weight: normal;
+  margin-top: 44px;
+}
+.basic .price{
+  display: inline-block;
+  width: 124px;
+  height: 124px;
+  border: 3px double #dedede;
+  border-radius: 50%;
+  line-height: 124px;
+  margin: 12px 0 26px;
+}
+.basic .price h2{
+  font-size: 29px;
+  color: #4c4c4c;
+  line-height: 116px;
+}
+.basic h5{
+  font-size: 16px;
+  font-weight: lighter;
+  color: #939598;
+  margin-bottom: 38px;
+}
+.basic li p{
+  font-size: 16px;
+  font-weight: bold;
+  color: #4c4c4c;
+  line-height: 2.2;
+}
+.basic li p span{
+  font-size: 16px;
+  font-weight: normal;
+  color: #4c4c4c;
+  line-height: 2.2;
+}
+.basic button{
+  background-color: #1abc9c;
+  color: #eaf7f3;
+  padding: 20px 42px;
+  border: none;
+  margin: 30px 0 32px;
+  cursor: pointer;
+}
+.basic h4{
+  font-size: 16px;
+  font-weight: normal;
+  color: #928b8b;
+  margin-bottom: 12px;
+}
+.premium{
+  overflow: hidden;
+  width: 360px;
+  height: 654px;
+  background-color: #1abc9c;
+  display: inline-block;
+  float: left;
+  margin: 60px 30px 16px;
+  text-align: center;
+}
+.premium h3{
+  text-transform: uppercase;
+  font-size: 20px;
+  color: #fff;
+  font-weight: normal;
+  margin-top: 44px;
+}
+.premium .price{
+  display: inline-block;
+  width: 124px;
+  height: 124px;
+  border: 3px double #dedede;
+  border-radius: 50%;
+  line-height: 124px;
+  margin: 12px 0 26px;
+}
+.premium .price h2{
+  font-size: 29px;
+  color: #fff;
+  line-height: 116px;
+}
+.premium h5{
+  font-size: 16px;
+  font-weight: lighter;
+  color: #fff;
+  margin-bottom: 38px;
+}
+.premium li p{
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  line-height: 2.2;
+}
+.premium li p span{
+  font-size: 16px;
+  font-weight: normal;
+  color: #fff;
+  line-height: 2.2;
+}
+.premium button{
+  background-color: #feffff;
+  color: #1abc9c;
+  padding: 20px 42px;
+  border: none;
+  margin: 30px 0 32px;
+  cursor: pointer;
+}
+.premium h4{
+  font-size: 16px;
+  font-weight: normal;
+  color: #f8f9fb;
+  margin-bottom: 12px;
+}
+.Ultimate{
+  overflow: hidden;
+  width: 360px;
+  height: 654px;
+  background-color: #fff;
+  display: inline-block;
+  float: left;
+  margin: 60px 0 16px;
+  text-align: center;
+}
+.Ultimate h3{
+  text-transform: uppercase;
+  font-size: 20px;
+  color: #4c4c4c;
+  font-weight: normal;
+  margin-top: 44px;
+}
+.Ultimate .price{
+  background-color: #fff;
+  display: inline-block;
+  width: 124px;
+  height: 124px;
+  border: 3px double #dedede;
+  border-radius: 50%;
+  line-height: 124px;
+  margin: 12px 0 26px;
+}
+.Ultimate .price h2{
+  font-size: 29px;
+  color: #4c4c4c;
+  line-height: 116px;
+}
+.Ultimate h5{
+  font-size: 16px;
+  font-weight: lighter;
+  color: #939598;
+  margin-bottom: 38px;
+}
+.Ultimate li p{
+  font-size: 16px;
+  font-weight: bold;
+  color: #4c4c4c;
+  line-height: 2.2;
+}
+.Ultimate li p span{
+  font-size: 16px;
+  font-weight: normal;
+  color: #4c4c4c;
+  line-height: 2.2;
+}
+.Ultimate button{
+  background-color: #1abc9c;
+  color: #fff;
+  padding: 20px 42px;
+  border: none;
+  margin: 30px 0 32px;
+  cursor: pointer;
+}
+.Ultimate h4{
+  font-size: 16px;
+  font-weight: normal;
+  color: #928b8b;
+  margin-bottom: 12px;
+}
+.Select_your p{
+  font-size: 15px;
+  font-weight: lighter;
+  color: #939598;
+  padding-top: 16px;
+  text-align: center;
+}
+.Select_your a{
+  color: #1abc9c;
+  cursor: pointer;
+  overflow: hidden;
+}

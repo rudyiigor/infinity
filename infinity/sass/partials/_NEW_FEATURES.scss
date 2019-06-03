@@ -1,0 +1,85 @@
+.NEW_FEATURES{
+  background-color: #f9f9f9;
+  height: 672px;
+}
+.img-holde{
+  margin-top: 130px;
+  display: inline-block;
+  width: 49%;
+}
+.new_feat{
+  display: inline-block;
+  width: 49%;
+  float: right;
+}
+.new_feat h3{
+  color: #4c4c4c;
+  margin-top: 84px;
+  font-size: 33px;
+  font-weight: bold;
+}
+.new_feat h4{
+  color: #939598;
+  margin: 30px 0 30px;
+  font-size: 33px;
+  font-weight:normal;
+}
+.new_feat p{
+  color: #c1b0b3;
+  margin-top: 8px;
+  font-size: 15px;
+  font-weight:lighter;
+}
+.new_feat ul{
+  display: inline-block;
+  margin: 62px 90px 0 24px;
+}
+
+.new_feat li{
+  color: #968585;
+  font-size: 16px;
+  line-height: 2;
+}
+.list_batt{
+  margin-top: 90px;
+}
+.list_batt li{
+  display: inline-block;
+  padding: 20px 40px;
+  cursor: pointer;
+}
+.list_batt li:nth-child(1){
+  background-color: #010101;
+  color: #fff;
+}
+.People_Belive{
+   background-color: #141519;
+   height: 390px;
+   overflow: hidden;
+}
+.People_Belive h4{
+  text-align: center;
+  color: #fff;
+  font-size: 27px;
+  font-weight: normal;
+  margin-top: 82px;
+}
+.like{
+  display: inline-block;
+  text-align: center;
+  float: left;
+}
+.People_Belive .like:nth-child(n){
+  width: 25%;
+  margin-top: 42px;
+}
+.like h3{
+  margin: 16px 0 28px;
+  font-size: 45px;
+  color: #fff;
+  font-weight: lighter;
+}
+.like p{
+  font-size: 18px;
+  color: #fff;
+}

@@ -1,0 +1,54 @@
+.What_Our_Features {
+  background-color: #f8f9fb; }
+  .What_Our_Features ul {
+    text-align: center;
+    margin-top: 30px; }
+    .What_Our_Features ul li {
+      color: #777;
+      background-color: #fff;
+      -webkit-box-shadow: 0px 0px 35px -11px #000000;
+      box-shadow: 0px 0px 35px -11px #000000;
+      display: inline-block;
+      text-align: center;
+      height: 54px;
+      margin-left: 2px;
+      font-size: 16px;
+      padding: 0 40px;
+      line-height: 54px;
+      cursor: pointer;
+      margin-top: 94px; }
+    .What_Our_Features ul .green_color {
+      background-color: #1abc9c;
+      color: #fff; }
+  .What_Our_Features .INTRODUCTION {
+    display: block; }
+  .What_Our_Features .ABOUT {
+    display: none; }
+  .What_Our_Features .FEATURES {
+    display: none; }
+
+.img-video {
+  margin-top: 114px;
+  display: inline-block; }
+  .img-video img {
+    border: none; }
+
+.description_video {
+  display: table;
+  height: 314px;
+  width: 506px;
+  float: right;
+  margin-top: 114px; }
+  .description_video span {
+    display: table-cell;
+    vertical-align: middle; }
+    .description_video span h3 {
+      width: 70%;
+      font-size: 27px;
+      color: #4c4c4c;
+      margin-bottom: 28px; }
+    .description_video span p {
+      width: 91%;
+      font-size: 16px;
+      color: #939598;
+      line-height: 1.7; }

@@ -1,0 +1,81 @@
+.Subscribe{
+  background-color:#f1f1ef;
+  height: 404px;
+}
+.subsc{
+  display: inline-block;
+  width: 50%;
+  float: right;
+}
+.subsc h3{
+  font-size: 46px;
+  color: #4c4c4c;
+  font-weight: lighter;
+  margin-top: 88px;
+}
+.subsc form{
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  margin: 28px 0 46px;
+}
+.subsc input[type="search"]{
+  font-size: 14px;
+  padding-left: 14px;
+  outline: none;
+  display: block;
+  width: 458px;
+  height: 44px;
+  background: #fff;
+  border: none;
+}
+.subsc button[type="submit"]{
+  position: absolute; top: 0; right: 20px;
+  background-color: #fff;
+  height: 100%;
+  z-index: 9;
+  outline: none;
+  border: none;
+  display: inline-block;
+  cursor: pointer;
+}
+.subsc p{
+  width: 80%;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #939598;
+}
+.design_batter{
+  height: 536px;
+  text-align: center;
+}
+.design_batter h4{
+  margin: 90px 0 64px;
+  font-size: 16px;
+  color: #939598;
+  font-weight: normal;
+}
+.design_batter span{
+  color: #1abc9c;
+}
+.design_batter h2{
+  font-size: 47px;
+  font-weight: lighter;
+  margin: 64px 0 34px;
+  color: #4c4c4c;
+}
+.design_batter p{
+  font-size: 16px;
+  font-style: italic;
+  color: #939598;
+  margin-bottom: 54px;
+}
+.design_batter button{
+  color: #fdfdfd;
+  background-color: #1abc9c;
+  font-size: 16px;
+  font-weight: lighter;
+  padding: 18px 42px;
+  border: none;
+  cursor: pointer;
+}
